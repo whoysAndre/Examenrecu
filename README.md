@@ -1,1 +1,1 @@
-Examen casi completo solo me falto el google autenticator por los demas esta todo bien funcionando
+Examen casi completo solo me falto el google autenticator por los demas esta todo bien funcionando, Login funcionando las credenciales estan en la pagina de inicio de session. Otro punto esperar un poco para generar el reporte unos 4 segundos aprox, el cambio de contraseña funcionando bien y por lo demas todo correcto.
